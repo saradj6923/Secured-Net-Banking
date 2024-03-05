@@ -5,10 +5,9 @@ Secured Net Banking is a web-based application that aims to provide a secure and
 ## Features
 
 - **User Authentication**: Secure login and registration system for users.
+- **Image Authentication**: Enhances security by requiring users to upload 10 images during registration, one of which is designated as the passkey image. During login, users must correctly identify the passkey image. After three unsuccessful attempts, the account will be locked to prevent unauthorized access.
 - **Account Management**: Users can view their account balance, transaction history, and personal details.
 - **Fund Transfer**: Allows users to transfer funds to other accounts within the same bank.
-- **Bill Payment**: Facility to pay utility bills directly from the user's account.
-- **Account Security**: Implementation of security measures such as SSL encryption, captcha, and two-factor authentication to protect user data.
 
 ## Technologies Used
 
