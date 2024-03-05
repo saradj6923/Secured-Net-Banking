@@ -24,7 +24,7 @@ To set up the Secured Net Banking application on your local environment, follow 
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/Secured-Net-Banking.git
+git clone https://github.com/saradj6923/Secured-Net-Banking.git
 
 2. Navigate to the project directory:
 
